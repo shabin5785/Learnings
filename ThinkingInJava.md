@@ -128,10 +128,6 @@ class or subclass or child class) also reflects those changes.
 Inheritance, does not have this flexibility since the compiler must
 place compile-time restrictions on classes created with inheritance
 
- 
-
-![](media/image1.png){width="3.7604166666666665in"
-height="3.1145833333333335in"}
 
 When you inherit from an existing type, you create a new type. This new
 type contains not only all the members of the existing type (although
@@ -172,9 +168,6 @@ or a generic vehicle to steer, or a generic bird to move, the compiler
 cannot know at compile time precisely what piece of code will be
 executed.
 
- 
-
-![](media/image2.png){width="4.6875in" height="2.28125in"}
 
  
 
